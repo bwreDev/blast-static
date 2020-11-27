@@ -1,11 +1,9 @@
 import React, { Component } from 'react';
-import Navbar from '../Navbar/Navbar';
 
 export default class Menu extends Component {
 	render() {
 		return (
 			<>
-				<Navbar />
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi
 					tincidunt lacinia lobortis. Pellentesque vel porta diam, vitae
